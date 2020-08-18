@@ -1,11 +1,11 @@
 # Site settings
-author: William West
-title: 
+author: William west
+title: Aspiring Software Engineer
 header-img: img/home-bg.png
 email: wwest466@gmail.com
-copyright_name: William West
+copyright_name: William west
 description: > # this means to ignore newlines until "baseurl:"
-  
+  dsa
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TheTruth4418
